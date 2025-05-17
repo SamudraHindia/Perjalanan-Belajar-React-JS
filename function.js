@@ -26,3 +26,6 @@ console.log("Gajih perhari:", gajiPerhari)
 console.log("Jumlah Masuk kerja:", hari)
 console.log("Total Gajih" , hitungGaji(gajiPerhari, hari))
 
+
+
+// Dea Afrizial Youtube Belajar Dasar Pemrograman Javascript - Function //
